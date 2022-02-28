@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Renewed advice to the respective monthly and quarterly meetings in England and Wales for preserving and spreading Friends books for truths service from the Meeting of Sufferings in London.</title>
+            <author>Meeting of Sufferings in London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91646</idno>
+            <idno type="STC">Wing R1036</idno>
+            <idno type="STC">ESTC R42560</idno>
+            <idno type="EEBO-CITATION">36282328</idno>
+            <idno type="OCLC">ocm 36282328</idno>
+            <idno type="VID">150222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Renewed advice to the respective monthly and quarterly meetings in England and Wales for preserving and spreading Friends books for truths service from the Meeting of Sufferings in London.</title>
+                  <author>Meeting of Sufferings in London.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Friends, by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Publishing --  Great Britain.</term>
+               <term>Publshers and publishing --  Great Britain.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:150222:1" rendition="simple:additions"/>
+            <head>
+               <hi>Renewed Advice</hi> To the Reſpective Monthly and Quarterly MEETINGS In <hi>England</hi> and <hi>Wales</hi> For Preſerving and Spreading Friends Books for Truths Service.</head>
+            <head type="sub">From the Meeting of Sufferings in London.</head>
+            <opener>
+               <salute>DEAR FRIENDS,</salute>
+            </opener>
+            <p>WIth our dear Love in the Truth unto you all, Theſe are to let you under<g ref="char:EOLhyphen"/>ſtand, That our Friends have at ſeveral <hi>Yearly Meetings</hi> had under their ſerious Conſideration, how all thoſe Books that are Printed for the <hi>Service of Truth,</hi> and in the Unity of Friends, might moſt effectually be ſpread for a General Service to Truth, and Information unto Friends and others: And at the laſt <hi>Yearly Meeting</hi> it was left unto this <hi>Meeting,</hi> who accordingly have taken Care and Pains therein, and ſettled as followeth.</p>
+            <p>That thoſe that Print Friends Books, ſhall the firſt Opportunity after Printed with<g ref="char:EOLhyphen"/>in one Month at moſt, ſend to one of the Correſpondents in the ſeveral Counties, <hi>viz.</hi>
+            </p>
+            <p>For your County, two Books of a ſort if under Six Pence for each <hi>Monthly Meeting</hi> in your County, and but one of a ſort if above Six Pence <hi>per</hi> Book for theſe Reaſons,
+<list>
+                  <item>1<hi>ſt.</hi> For Friends to have General Notice of what Books are Printed.</item>
+                  <item>2<hi>dly.</hi> That they may ſend for what other Quantities they may ſee a Service for. And</item>
+                  <item>3<hi>dly.</hi> That the Printer may be incouraged in Printing for Friends.</item>
+                  <item>4<hi>thly.</hi> That one Book at leaſt of a ſort that ſhall be Printed [except Collections] may be kept in each Monthly or Quarterly Meeting, for the Service of Friends and Truth, as there ſhall be occaſion for the future. And was agreed at the yearly Meeting 1692. To be Recommended to the Quarterly or Monthly Meetings, and deſired by the ſaid Meeting 1692. in the Printed Epiſtle.</item>
+                  <item>5<hi>thly.</hi> Its agreed, that for Incouragement the Printer will allow two pence in the Shil<g ref="char:EOLhyphen"/>ling for all ſuch Books.</item>
+                  <item>6<hi>thly.</hi> Its agreed that ſome here ſhall be appointed that two or three Weeks before each Quarter Day to Examine the Printer, to ſee that they ſend no Books but ſuch as are approved by Friends, and no more than two of a ſort as aforeſaid; except the Friends in the Country ſhall write for more, which its hoped they will not fail in, as they ſee a Service for them.</item>
+                  <item>7<hi>thly.</hi> Its Agreed or Adviſed, that the Printers Account be fully cleared once a Year at the leaſt by thoſe Friends the Country ſhall ſend up to the Yearly Meeting.</item>
+                  <item>8<hi>thly.</hi> Its Agreed that the Name of the Printer Imployed by Friends ſhould be ſent, with Directions how to write to him.</item>
+               </list>
+            </p>
+            <p>
+               <hi>And Dear Friends and Brethren.</hi>
+               <lb/>
+Its tenderly and in Brotherly Love Adviſed and Recommended unto you, That ye be careful and diligent in the ſpreading of all ſuch Books that are Printed for the <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvice of Truth,</hi> and are Written either in defence of it, or <hi>Chriſtian Doctrine,</hi> or <hi>Holy Profeſ<g ref="char:EOLhyphen"/>ſion,</hi> or by way of <hi>Epiſtle, VVarning, Caution, Exhortation</hi> or <hi>Propheſie.</hi> That ſo we may not be any way or in any wiſe Remiſs or Negligent in promoting that Holy and Eter<g ref="char:EOLhyphen"/>nal Truth it hath pleaſed Almighty God to bleſs us with the Knowledge of, and hath Raiſed us up to ſtand Witneſs for, in our Age and Generation, nor nothing may be wan<g ref="char:EOLhyphen"/>ting
+<pb n="2" facs="tcp:150222:2"/>on our Parts to promote it, and the ſpreading of it, in order that the Nations may be Informed and brought into the Knowledge of it, and therein come to know Peace and Acceptance with the Lord, and injoy his Bleſſing. For one End of the Lords Vi<g ref="char:EOLhyphen"/>ſiting us, and bringing us to the Knowledge thereof is, that we therein might be Inſtru<g ref="char:EOLhyphen"/>mental for the good of others, and Faithfully ſerve him therein with our whole Hearts, and alſo with that Subſtance he hath Bleſſed us with, and made us Stewards of, that in the End we may give an account to him with joy, and may Receive the Reward of Eter<g ref="char:EOLhyphen"/>nal Life.</p>
+            <closer>
+               <dateline>Signed on behalf of the Meeting for Sufferings in <hi>London</hi> 
+                  <date>the 18<hi>th.</hi> of the 6<hi>th.</hi> Month. 1693.</date>
+               </dateline>
+               <signed>By Benj. Bealing.</signed>
+            </closer>
+            <trailer>Our Ancient Friend, The Printer's Name is as followeth, to whom direct thus, For ANDREW SOWLE at the <hi>Crooked-Billet</hi> in <hi>Holy-well-Lane</hi> in <hi>Shoreditch London.</hi> Who hath long Served Truth and Friends, and ſuffered very great Loſſes, and gone through many Hazards and Difficulties, with ſore Proſecutions for the ſame; is now Ancient and Dark-Sighted, but his Daughter TACE SOWLE, who underſtands the Buſineſs very well, Carries on his Imploy.</trailer>
+            <trailer>Or, To <hi>Tho. Northcott</hi> at his Shop in <hi>George-Yard</hi> in <hi>Lumbard-Street London;</hi> One that ſerved his Apprentice-ſhip with one that Bound, and ſometimes procured Books for Friends, and hath now for ſome Years paſt, in like manner been Imployed.</trailer>
+         </div>
+         <div type="postscript">
+            <p>Poſtſcript. And this Agreement and Account herein ſent, we think it needful you ſhould Record it in your Quarterly Meeting Books, and ſometimes Read it for Remembrance and General Notice.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for Friends, by <hi>T. Sowle,</hi> at the <hi>Crooked-Billet</hi> in <hi>Holy-well-Lane</hi> in <hi>Shoreditch.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
